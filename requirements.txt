@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+python-docx
+textblob
+scikit-learn
+faker
+python-pptx
+jupyter
