@@ -1,28 +1,26 @@
-<<<<<<< HEAD
 # Data-Driven Political Campaign & Sentiment Analysis
 
-This project analyzes **political campaign data** in the Thiruvidaimaruthur constituency (2006–2024) using **data science and machine learning**. It combines historical election results, booth-level features, and social media sentiment to provide insights, generate reports, and visualize campaign strategy.
+This project analyzes **political campaign data** in the Thiruvidaimaruthur constituency (2006–2024) using data science and machine learning.  
+It combines **historical election results**, **booth-level insights**, and **social-media sentiment** to generate actionable strategies.
 
 The project produces:
 
-- **Word reports** summarizing findings
-- **PPT presentations** with charts and maps
-- **Booth-level maps** and **interactive visualizations**
-- **ML predictions** of winning probability
+- Word reports summarizing findings  
+- PPT presentations with charts and maps  
+- Booth-level PDF maps and visualizations  
+- Machine-learning predictions of winning probability  
 
 ---
 
-## **Project Structure**
+## 📁 Project Structure
+
+(Your structure goes here)
 
 ---
 
-## **Requirements**
+## 📦 Requirements
 
-- Python 3.8+
-- Libraries:
+You can install all dependencies using:
 
 ```bash
-pip install pandas numpy matplotlib seaborn plotly python-docx textblob scikit-learn faker python-pptx
-=======
-# CampaignDataScience
->>>>>>> f6a0db61da9dddfe90ec52149d4d19eecfad55a5
+pip install -r requirements.txt
